@@ -3,7 +3,7 @@
 import unittest
 import json
 
-from app import app
+from app import me
 
 class CitiesTestCase(unittest.TestCase):
 
